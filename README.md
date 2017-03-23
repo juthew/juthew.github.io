@@ -1,3 +1,9 @@
+#J.U.Thew's First Webpage
+
+## These are my working ideas on history
+
+My interestes are in international history, international education, and Middle East & Africa 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/juthew/juthew.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
